@@ -1,0 +1,3 @@
+unzip primark_vendor_scoring.zip && cd primark_vendor_scoring
+pip install -r requirements.txt
+streamlit run app.py
