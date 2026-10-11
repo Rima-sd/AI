@@ -1,0 +1,359 @@
+po_line_id,vendor_id,category,period,quarantine_reason
+POL0000096,V049,Accessories,2024-10,no_delivery_record
+POL0000163,V034,Kidswear,2024-10,date_sequence_invalid
+POL0000230,V009,Seasonal & Gifting,2024-10,no_delivery_record
+POL0000242,V018,Accessories,2024-10,no_delivery_record
+POL0000245,V023,Kidswear,2024-10,no_delivery_record
+POL0000260,V045,Footwear,2024-10,no_delivery_record
+POL0000270,V009,Homeware,2024-10,no_delivery_record
+POL0000410,V044,Seasonal & Gifting,2024-10,no_delivery_record
+POL0000418,V012,Beauty,2024-10,no_delivery_record
+POL0000424,V028,Hosiery & Socks,2024-10,date_sequence_invalid
+POL0000496,V009,Kidswear,2024-10,no_delivery_record
+POL0000694,V049,Homeware,2024-10,no_delivery_record
+POL0000797,V022,Footwear,2024-10,date_sequence_invalid
+POL0000817,V044,Kidswear,2024-10,no_delivery_record
+POL0000901,V030,Menswear,2024-10,no_delivery_record
+POL0001086,V028,Menswear,2024-11,date_sequence_invalid
+POL0001096,V048,Homeware,2024-11,no_delivery_record
+POL0001105,V016,Kidswear,2024-11,no_delivery_record
+POL0001143,V017,Menswear,2024-11,date_sequence_invalid
+POL0001144,V018,Lingerie & Sleepwear,2024-11,no_delivery_record
+POL0001236,V048,Accessories,2024-11,no_delivery_record
+POL0001260,V035,Lingerie & Sleepwear,2024-11,no_delivery_record
+POL0001275,V009,Homeware,2024-11,no_delivery_record
+POL0001287,V029,Footwear,2024-11,date_sequence_invalid
+POL0001315,V026,Menswear,2024-11,no_delivery_record
+POL0001398,V037,Kidswear,2024-11,no_delivery_record
+POL0001482,V037,Hosiery & Socks,2024-11,date_sequence_invalid
+POL0001552,V028,Menswear,2024-11,no_delivery_record
+POL0001573,V005,Womenswear,2024-11,no_delivery_record
+POL0001620,V029,Seasonal & Gifting,2024-11,no_delivery_record
+POL0001647,V028,Hosiery & Socks,2024-11,no_delivery_record
+POL0001704,V002,Beauty,2024-11,no_delivery_record
+POL0001719,V036,Beauty,2024-11,date_sequence_invalid
+POL0001779,V005,Womenswear,2024-11,no_delivery_record
+POL0001826,V036,Womenswear,2024-11,date_sequence_invalid
+POL0001849,V018,Seasonal & Gifting,2024-11,date_sequence_invalid
+POL0001875,V048,Menswear,2024-11,no_delivery_record
+POL0001903,V028,Kidswear,2024-11,no_delivery_record
+POL0001953,V044,Beauty,2024-11,date_sequence_invalid
+POL0001969,V024,Lingerie & Sleepwear,2024-11,date_sequence_invalid
+POL0002022,V001,Hosiery & Socks,2024-11,no_delivery_record
+POL0002071,V029,Footwear,2024-11,no_delivery_record
+POL0002146,V019,Footwear,2024-12,no_delivery_record
+POL0002240,V015,Hosiery & Socks,2024-12,no_delivery_record
+POL0002254,V037,Homeware,2024-12,no_delivery_record
+POL0002278,V021,Beauty,2024-12,no_delivery_record
+POL0002297,V005,Womenswear,2024-12,no_delivery_record
+POL0002393,V007,Lingerie & Sleepwear,2024-12,date_sequence_invalid
+POL0002436,V033,Beauty,2024-12,no_delivery_record
+POL0002551,V044,Beauty,2024-12,no_delivery_record
+POL0002616,V037,Accessories,2024-12,no_delivery_record
+POL0003018,V009,Kidswear,2025-01,date_sequence_invalid
+POL0003033,V002,Kidswear,2025-01,no_delivery_record
+POL0003047,V032,Hosiery & Socks,2025-01,no_delivery_record
+POL0003054,V035,Kidswear,2025-01,no_delivery_record
+POL0003079,V039,Hosiery & Socks,2025-01,date_sequence_invalid
+POL0003094,V018,Accessories,2025-01,no_delivery_record
+POL0003103,V039,Footwear,2025-01,no_delivery_record
+POL0003185,V036,Hosiery & Socks,2025-01,no_delivery_record
+POL0003220,V039,Footwear,2025-01,no_delivery_record
+POL0003255,V018,Accessories,2025-01,no_delivery_record
+POL0003256,V019,Footwear,2025-01,date_sequence_invalid
+POL0003381,V016,Beauty,2025-01,no_delivery_record
+POL0003401,V009,Homeware,2025-01,no_delivery_record
+POL0003402,V026,Hosiery & Socks,2025-01,no_delivery_record
+POL0003461,V042,Lingerie & Sleepwear,2025-01,date_sequence_invalid
+POL0003639,V036,Menswear,2025-01,no_delivery_record
+POL0003802,V009,Homeware,2025-02,no_delivery_record
+POL0003837,V005,Kidswear,2025-02,no_delivery_record
+POL0003845,V016,Footwear,2025-02,date_sequence_invalid
+POL0003858,V005,Lingerie & Sleepwear,2025-02,no_delivery_record
+POL0003913,V041,Menswear,2025-02,no_delivery_record
+POL0003964,V041,Footwear,2025-02,no_delivery_record
+POL0004026,V033,Hosiery & Socks,2025-02,no_delivery_record
+POL0004138,V035,Kidswear,2025-02,date_sequence_invalid
+POL0004148,V044,Seasonal & Gifting,2025-02,no_delivery_record
+POL0004160,V005,Accessories,2025-02,no_delivery_record
+POL0004240,V026,Homeware,2025-02,no_delivery_record
+POL0004307,V036,Beauty,2025-02,no_delivery_record
+POL0004328,V022,Footwear,2025-02,no_delivery_record
+POL0004398,V050,Hosiery & Socks,2025-02,date_sequence_invalid
+POL0004410,V034,Kidswear,2025-02,no_delivery_record
+POL0004511,V037,Accessories,2025-02,no_delivery_record
+POL0004584,V026,Beauty,2025-03,no_delivery_record
+POL0004688,V034,Kidswear,2025-03,no_delivery_record
+POL0004715,V037,Hosiery & Socks,2025-03,no_delivery_record
+POL0004881,V036,Hosiery & Socks,2025-03,no_delivery_record
+POL0004918,V005,Womenswear,2025-03,no_delivery_record
+POL0005042,V036,Beauty,2025-03,date_sequence_invalid
+POL0005070,V037,Kidswear,2025-03,no_delivery_record
+POL0005124,V038,Accessories,2025-03,date_sequence_invalid
+POL0005220,V048,Homeware,2025-03,no_delivery_record
+POL0005221,V048,Accessories,2025-03,no_delivery_record
+POL0005261,V034,Seasonal & Gifting,2025-03,date_sequence_invalid
+POL0005289,V048,Accessories,2025-03,no_delivery_record
+POL0005308,V044,Beauty,2025-03,date_sequence_invalid
+POL0005329,V049,Homeware,2025-04,date_sequence_invalid
+POL0005389,V037,Kidswear,2025-04,date_sequence_invalid
+POL0005431,V018,Womenswear,2025-04,date_sequence_invalid
+POL0005487,V021,Beauty,2025-04,date_sequence_invalid
+POL0005590,V050,Beauty,2025-04,date_sequence_invalid
+POL0005604,V029,Menswear,2025-04,no_delivery_record
+POL0005791,V017,Menswear,2025-04,no_delivery_record
+POL0005794,V020,Womenswear,2025-04,date_sequence_invalid
+POL0005802,V036,Beauty,2025-04,date_sequence_invalid
+POL0005824,V037,Hosiery & Socks,2025-04,no_delivery_record
+POL0005887,V047,Homeware,2025-04,date_sequence_invalid
+POL0005910,V037,Accessories,2025-04,no_delivery_record
+POL0006007,V047,Footwear,2025-04,no_delivery_record
+POL0006018,V010,Menswear,2025-04,no_delivery_record
+POL0006062,V035,Womenswear,2025-04,no_delivery_record
+POL0006097,V048,Homeware,2025-04,no_delivery_record
+POL0006184,V010,Menswear,2025-05,no_delivery_record
+POL0006288,V044,Seasonal & Gifting,2025-05,date_sequence_invalid
+POL0006382,V018,Womenswear,2025-05,date_sequence_invalid
+POL0006442,V032,Hosiery & Socks,2025-05,no_delivery_record
+POL0006446,V036,Beauty,2025-05,date_sequence_invalid
+POL0006499,V048,Homeware,2025-05,no_delivery_record
+POL0006533,V004,Lingerie & Sleepwear,2025-05,no_delivery_record
+POL0006583,V019,Beauty,2025-05,date_sequence_invalid
+POL0006681,V009,Seasonal & Gifting,2025-05,no_delivery_record
+POL0006703,V049,Homeware,2025-05,no_delivery_record
+POL0006820,V016,Beauty,2025-05,no_delivery_record
+POL0006859,V047,Homeware,2025-05,no_delivery_record
+POL0007102,V023,Kidswear,2025-06,date_sequence_invalid
+POL0007198,V037,Homeware,2025-06,no_delivery_record
+POL0007210,V011,Seasonal & Gifting,2025-06,no_delivery_record
+POL0007344,V042,Lingerie & Sleepwear,2025-06,no_delivery_record
+POL0007345,V044,Kidswear,2025-06,no_delivery_record
+POL0007432,V011,Seasonal & Gifting,2025-06,no_delivery_record
+POL0007534,V027,Lingerie & Sleepwear,2025-06,no_delivery_record
+POL0007668,V043,Footwear,2025-06,no_delivery_record
+POL0007682,V036,Beauty,2025-06,no_delivery_record
+POL0007848,V036,Womenswear,2025-07,no_delivery_record
+POL0007850,V039,Hosiery & Socks,2025-07,no_delivery_record
+POL0007851,V043,Kidswear,2025-07,date_sequence_invalid
+POL0007857,V012,Beauty,2025-07,date_sequence_invalid
+POL0007874,V037,Hosiery & Socks,2025-07,no_delivery_record
+POL0007915,V021,Beauty,2025-07,no_delivery_record
+POL0008032,V024,Lingerie & Sleepwear,2025-07,no_delivery_record
+POL0008052,V009,Kidswear,2025-07,no_delivery_record
+POL0008188,V029,Seasonal & Gifting,2025-07,no_delivery_record
+POL0008206,V026,Hosiery & Socks,2025-07,no_delivery_record
+POL0008238,V048,Homeware,2025-07,no_delivery_record
+POL0008256,V033,Seasonal & Gifting,2025-07,date_sequence_invalid
+POL0008357,V013,Beauty,2025-07,no_delivery_record
+POL0008379,V044,Beauty,2025-07,date_sequence_invalid
+POL0008406,V035,Kidswear,2025-07,no_delivery_record
+POL0008461,V037,Kidswear,2025-07,no_delivery_record
+POL0008473,V001,Hosiery & Socks,2025-07,date_sequence_invalid
+POL0008502,V008,Menswear,2025-07,no_delivery_record
+POL0008614,V001,Hosiery & Socks,2025-08,no_delivery_record
+POL0008655,V050,Beauty,2025-08,date_sequence_invalid
+POL0008712,V018,Accessories,2025-08,no_delivery_record
+POL0008756,V035,Kidswear,2025-08,no_delivery_record
+POL0008759,V039,Footwear,2025-08,date_sequence_invalid
+POL0008827,V005,Lingerie & Sleepwear,2025-08,no_delivery_record
+POL0008835,V018,Accessories,2025-08,date_sequence_invalid
+POL0009058,V002,Hosiery & Socks,2025-08,no_delivery_record
+POL0009077,V036,Menswear,2025-08,date_sequence_invalid
+POL0009127,V026,Beauty,2025-08,no_delivery_record
+POL0009165,V028,Kidswear,2025-08,no_delivery_record
+POL0009204,V050,Beauty,2025-08,no_delivery_record
+POL0009276,V009,Homeware,2025-08,no_delivery_record
+POL0009355,V034,Kidswear,2025-08,no_delivery_record
+POL0009387,V029,Menswear,2025-08,no_delivery_record
+POL0009416,V036,Beauty,2025-08,date_sequence_invalid
+POL0009503,V005,Lingerie & Sleepwear,2025-08,date_sequence_invalid
+POL0009527,V048,Homeware,2025-08,no_delivery_record
+POL0009568,V022,Footwear,2025-08,date_sequence_invalid
+POL0009712,V048,Menswear,2025-09,no_delivery_record
+POL0009837,V021,Beauty,2025-09,date_sequence_invalid
+POL0009952,V035,Lingerie & Sleepwear,2025-09,no_delivery_record
+POL0009963,V017,Footwear,2025-09,date_sequence_invalid
+POL0009966,V028,Kidswear,2025-09,no_delivery_record
+POL0010131,V037,Hosiery & Socks,2025-09,date_sequence_invalid
+POL0010211,V050,Womenswear,2025-09,date_sequence_invalid
+POL0010237,V036,Menswear,2025-09,no_delivery_record
+POL0010281,V010,Menswear,2025-09,no_delivery_record
+POL0010348,V029,Menswear,2025-09,no_delivery_record
+POL0010382,V032,Hosiery & Socks,2025-09,date_sequence_invalid
+POL0010474,V017,Menswear,2025-09,no_delivery_record
+POL0010519,V036,Beauty,2025-09,no_delivery_record
+POL0010531,V044,Seasonal & Gifting,2025-09,no_delivery_record
+POL0010588,V011,Homeware,2025-09,date_sequence_invalid
+POL0010649,V026,Homeware,2025-10,no_delivery_record
+POL0010744,V029,Menswear,2025-10,no_delivery_record
+POL0010843,V036,Beauty,2025-10,date_sequence_invalid
+POL0010882,V036,Womenswear,2025-10,no_delivery_record
+POL0010937,V007,Lingerie & Sleepwear,2025-10,no_delivery_record
+POL0010958,V047,Homeware,2025-10,date_sequence_invalid
+POL0011037,V029,Menswear,2025-10,no_delivery_record
+POL0011076,V042,Lingerie & Sleepwear,2025-10,date_sequence_invalid
+POL0011120,V017,Footwear,2025-10,no_delivery_record
+POL0011196,V018,Accessories,2025-10,no_delivery_record
+POL0011226,V012,Homeware,2025-10,no_delivery_record
+POL0011257,V022,Beauty,2025-10,no_delivery_record
+POL0011269,V036,Beauty,2025-10,date_sequence_invalid
+POL0011281,V002,Beauty,2025-10,no_delivery_record
+POL0011309,V009,Homeware,2025-10,date_sequence_invalid
+POL0011362,V039,Footwear,2025-10,no_delivery_record
+POL0011472,V009,Kidswear,2025-10,date_sequence_invalid
+POL0011530,V026,Menswear,2025-10,no_delivery_record
+POL0011684,V029,Menswear,2025-11,no_delivery_record
+POL0011919,V050,Beauty,2025-11,date_sequence_invalid
+POL0012038,V029,Menswear,2025-11,no_delivery_record
+POL0012164,V028,Hosiery & Socks,2025-11,no_delivery_record
+POL0012195,V018,Accessories,2025-11,no_delivery_record
+POL0012235,V010,Womenswear,2025-11,no_delivery_record
+POL0012283,V023,Accessories,2025-11,date_sequence_invalid
+POL0012322,V029,Hosiery & Socks,2025-11,date_sequence_invalid
+POL0012344,V002,Kidswear,2025-11,no_delivery_record
+POL0012446,V010,Womenswear,2025-11,date_sequence_invalid
+POL0012529,V042,Lingerie & Sleepwear,2025-11,date_sequence_invalid
+POL0012597,V036,Womenswear,2025-11,date_sequence_invalid
+POL0012688,V009,Homeware,2025-12,date_sequence_invalid
+POL0012726,V005,Womenswear,2025-12,no_delivery_record
+POL0012786,V006,Hosiery & Socks,2025-12,no_delivery_record
+POL0012789,V014,Menswear,2025-12,date_sequence_invalid
+POL0012797,V038,Hosiery & Socks,2025-12,no_delivery_record
+POL0012909,V018,Womenswear,2025-12,no_delivery_record
+POL0012927,V048,Menswear,2025-12,date_sequence_invalid
+POL0012962,V026,Hosiery & Socks,2025-12,no_delivery_record
+POL0013362,V012,Beauty,2025-12,no_delivery_record
+POL0013417,V029,Hosiery & Socks,2026-01,no_delivery_record
+POL0013428,V043,Kidswear,2026-01,no_delivery_record
+POL0013460,V044,Seasonal & Gifting,2026-01,no_delivery_record
+POL0013482,V026,Hosiery & Socks,2026-01,date_sequence_invalid
+POL0013659,V005,Accessories,2026-01,date_sequence_invalid
+POL0013797,V015,Lingerie & Sleepwear,2026-01,no_delivery_record
+POL0013847,V038,Hosiery & Socks,2026-01,no_delivery_record
+POL0013917,V009,Homeware,2026-01,no_delivery_record
+POL0013927,V019,Footwear,2026-01,no_delivery_record
+POL0013953,V009,Kidswear,2026-01,no_delivery_record
+POL0013970,V050,Beauty,2026-01,no_delivery_record
+POL0013991,V018,Accessories,2026-01,no_delivery_record
+POL0014050,V029,Seasonal & Gifting,2026-01,no_delivery_record
+POL0014053,V030,Menswear,2026-01,date_sequence_invalid
+POL0014064,V007,Lingerie & Sleepwear,2026-01,no_delivery_record
+POL0014159,V033,Seasonal & Gifting,2026-01,no_delivery_record
+POL0014266,V039,Hosiery & Socks,2026-02,date_sequence_invalid
+POL0014320,V036,Womenswear,2026-02,date_sequence_invalid
+POL0014323,V038,Hosiery & Socks,2026-02,no_delivery_record
+POL0014407,V035,Lingerie & Sleepwear,2026-02,no_delivery_record
+POL0014437,V044,Beauty,2026-02,date_sequence_invalid
+POL0014507,V037,Homeware,2026-02,date_sequence_invalid
+POL0014607,V034,Seasonal & Gifting,2026-02,no_delivery_record
+POL0014766,V028,Hosiery & Socks,2026-02,date_sequence_invalid
+POL0014816,V028,Hosiery & Socks,2026-02,date_sequence_invalid
+POL0014824,V041,Menswear,2026-02,no_delivery_record
+POL0014827,V047,Footwear,2026-02,no_delivery_record
+POL0014848,V037,Accessories,2026-02,no_delivery_record
+POL0014880,V005,Lingerie & Sleepwear,2026-02,date_sequence_invalid
+POL0014890,V027,Lingerie & Sleepwear,2026-02,no_delivery_record
+POL0014940,V033,Beauty,2026-02,date_sequence_invalid
+POL0015124,V044,Seasonal & Gifting,2026-03,no_delivery_record
+POL0015159,V010,Menswear,2026-03,no_delivery_record
+POL0015170,V048,Homeware,2026-03,no_delivery_record
+POL0015306,V050,Footwear,2026-03,no_delivery_record
+POL0015334,V017,Footwear,2026-03,no_delivery_record
+POL0015419,V031,Accessories,2026-03,no_delivery_record
+POL0015469,V036,Beauty,2026-03,no_delivery_record
+POL0015474,V047,Seasonal & Gifting,2026-03,no_delivery_record
+POL0015532,V029,Menswear,2026-03,no_delivery_record
+POL0015544,V050,Womenswear,2026-03,date_sequence_invalid
+POL0015751,V047,Footwear,2026-03,no_delivery_record
+POL0015760,V019,Beauty,2026-03,no_delivery_record
+POL0015939,V036,Beauty,2026-04,date_sequence_invalid
+POL0016041,V031,Accessories,2026-04,no_delivery_record
+POL0016060,V011,Homeware,2026-04,no_delivery_record
+POL0016113,V010,Womenswear,2026-04,no_delivery_record
+POL0016125,V033,Seasonal & Gifting,2026-04,no_delivery_record
+POL0016251,V009,Homeware,2026-04,date_sequence_invalid
+POL0016264,V034,Kidswear,2026-04,no_delivery_record
+POL0016359,V029,Menswear,2026-04,no_delivery_record
+POL0016437,V005,Kidswear,2026-04,date_sequence_invalid
+POL0016663,V044,Seasonal & Gifting,2026-05,no_delivery_record
+POL0016665,V050,Footwear,2026-05,no_delivery_record
+POL0016668,V002,Kidswear,2026-05,no_delivery_record
+POL0016716,V039,Footwear,2026-05,no_delivery_record
+POL0016744,V010,Womenswear,2026-05,no_delivery_record
+POL0016797,V026,Homeware,2026-05,no_delivery_record
+POL0016850,V014,Menswear,2026-05,date_sequence_invalid
+POL0016956,V036,Hosiery & Socks,2026-05,date_sequence_invalid
+POL0016994,V017,Menswear,2026-05,no_delivery_record
+POL0017001,V034,Seasonal & Gifting,2026-05,no_delivery_record
+POL0017167,V018,Accessories,2026-05,date_sequence_invalid
+POL0017234,V018,Accessories,2026-05,no_delivery_record
+POL0017362,V029,Menswear,2026-05,no_delivery_record
+POL0017413,V037,Homeware,2026-06,date_sequence_invalid
+POL0017426,V029,Hosiery & Socks,2026-06,no_delivery_record
+POL0017500,V009,Kidswear,2026-06,no_delivery_record
+POL0017567,V026,Beauty,2026-06,no_delivery_record
+POL0017731,V029,Seasonal & Gifting,2026-06,no_delivery_record
+POL0017789,V010,Womenswear,2026-06,no_delivery_record
+POL0017892,V036,Hosiery & Socks,2026-06,no_delivery_record
+POL0017911,V036,Womenswear,2026-06,date_sequence_invalid
+POL0017962,V034,Kidswear,2026-06,no_delivery_record
+POL0018002,V002,Hosiery & Socks,2026-06,no_delivery_record
+POL0018032,V010,Menswear,2026-06,no_delivery_record
+POL0018100,V030,Menswear,2026-06,date_sequence_invalid
+POL0018105,V044,Seasonal & Gifting,2026-06,no_delivery_record
+POL0018107,V048,Menswear,2026-06,no_delivery_record
+POL0018111,V009,Seasonal & Gifting,2026-06,no_delivery_record
+POL0018135,V042,Lingerie & Sleepwear,2026-06,date_sequence_invalid
+POL0018151,V028,Kidswear,2026-06,date_sequence_invalid
+POL0018170,V001,Hosiery & Socks,2026-06,date_sequence_invalid
+POL0018176,V008,Menswear,2026-06,no_delivery_record
+POL0018201,V048,Menswear,2026-06,no_delivery_record
+POL0018251,V038,Beauty,2026-07,no_delivery_record
+POL0018289,V048,Menswear,2026-07,no_delivery_record
+POL0018375,V022,Footwear,2026-07,date_sequence_invalid
+POL0018413,V036,Womenswear,2026-07,no_delivery_record
+POL0018487,V025,Footwear,2026-07,date_sequence_invalid
+POL0018592,V026,Hosiery & Socks,2026-07,no_delivery_record
+POL0018626,V034,Seasonal & Gifting,2026-07,date_sequence_invalid
+POL0018667,V028,Kidswear,2026-07,no_delivery_record
+POL0018678,V037,Homeware,2026-07,date_sequence_invalid
+POL0018744,V014,Menswear,2026-07,date_sequence_invalid
+POL0018763,V039,Seasonal & Gifting,2026-07,date_sequence_invalid
+POL0018814,V039,Seasonal & Gifting,2026-07,no_delivery_record
+POL0018851,V027,Lingerie & Sleepwear,2026-07,date_sequence_invalid
+POL0018932,V029,Seasonal & Gifting,2026-07,date_sequence_invalid
+POL0018934,V033,Seasonal & Gifting,2026-07,no_delivery_record
+POL0018994,V033,Hosiery & Socks,2026-07,date_sequence_invalid
+POL0019177,V047,Footwear,2026-08,no_delivery_record
+POL0019265,V050,Beauty,2026-08,no_delivery_record
+POL0019268,V050,Footwear,2026-08,no_delivery_record
+POL0019313,V019,Footwear,2026-08,date_sequence_invalid
+POL0019423,V029,Hosiery & Socks,2026-08,no_delivery_record
+POL0019511,V017,Footwear,2026-08,no_delivery_record
+POL0019556,V047,Homeware,2026-08,no_delivery_record
+POL0019563,V005,Lingerie & Sleepwear,2026-08,no_delivery_record
+POL0019624,V047,Seasonal & Gifting,2026-08,date_sequence_invalid
+POL0019651,V038,Beauty,2026-08,no_delivery_record
+POL0019665,V013,Beauty,2026-08,no_delivery_record
+POL0019749,V018,Seasonal & Gifting,2026-08,date_sequence_invalid
+POL0019763,V044,Kidswear,2026-08,no_delivery_record
+POL0019870,V044,Kidswear,2026-08,no_delivery_record
+POL0019956,V050,Womenswear,2026-08,no_delivery_record
+POL0019997,V019,Beauty,2026-08,no_delivery_record
+POL0020017,V048,Accessories,2026-08,no_delivery_record
+POL0020141,V025,Footwear,2026-09,no_delivery_record
+POL0020170,V010,Womenswear,2026-09,no_delivery_record
+POL0020175,V016,Footwear,2026-09,date_sequence_invalid
+POL0020288,V035,Lingerie & Sleepwear,2026-09,no_delivery_record
+POL0020363,V050,Beauty,2026-09,no_delivery_record
+POL0020459,V033,Beauty,2026-09,no_delivery_record
+POL0020494,V044,Seasonal & Gifting,2026-09,no_delivery_record
+POL0020505,V018,Lingerie & Sleepwear,2026-09,date_sequence_invalid
+POL0020539,V005,Kidswear,2026-09,date_sequence_invalid
+POL0020638,V026,Menswear,2026-09,date_sequence_invalid
+POL0020684,V050,Hosiery & Socks,2026-09,no_delivery_record
+POL0020730,V027,Accessories,2026-09,no_delivery_record
+POL0020765,V029,Hosiery & Socks,2026-09,no_delivery_record
+POL0020788,V016,Kidswear,2026-09,no_delivery_record
+POL0020927,V019,Beauty,2026-09,no_delivery_record
+POL0021002,V041,Menswear,2026-09,date_sequence_invalid

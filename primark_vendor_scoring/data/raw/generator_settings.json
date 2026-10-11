@@ -1,0 +1,41 @@
+{
+  "seed": 42,
+  "n_vendors": 50,
+  "months": 24,
+  "end_month": "2026-09",
+  "profile_mix": {
+    "reliable": 18,
+    "average": 16,
+    "deteriorating": 9,
+    "volatile": 7
+  },
+  "tier_mix": {
+    "Strategic": 0.2,
+    "Preferred": 0.4,
+    "Standard": 0.4
+  },
+  "mean_po_lines_per_month": {
+    "Strategic": 11.0,
+    "Preferred": 7.0,
+    "Standard": 3.8
+  },
+  "thin_pair_share_standard": 0.25,
+  "peak_months": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "dirty_rates": {
+    "cancelled": 0.025,
+    "missing_delivery": 0.012,
+    "missing_inspection": 0.03,
+    "missing_invoice": 0.025,
+    "duplicate_po_line": 0.01,
+    "duplicate_delivery": 0.005,
+    "orphan_records": 0.003,
+    "invalid_date_sequence": 0.006,
+    "invoice_qty_mismatch": 0.03,
+    "messy_vendor_id": 0.01
+  }
+}

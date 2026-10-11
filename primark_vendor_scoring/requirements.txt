@@ -1,0 +1,5 @@
+streamlit>=1.35
+pandas>=2.1
+numpy>=1.26
+# optional, for running the tests with pytest (they also run with plain python)
+pytest>=8.0

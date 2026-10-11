@@ -1,0 +1,58 @@
+{
+  "config_version": "1.0.0",
+  "reporting_currency": "GBP",
+  "on_time_grace_days": 1,
+
+  "weights": {
+    "on_time_pct": 0.30,
+    "fill_rate_pct": 0.20,
+    "defect_pct": 0.25,
+    "cost_variance_abs_pct": 0.15,
+    "lead_time_cv": 0.10
+  },
+
+  "metric_bounds": {
+    "on_time_pct":           {"floor": 55.0, "target": 98.0},
+    "fill_rate_pct":         {"floor": 75.0, "target": 99.5},
+    "defect_pct":            {"floor": 7.0,  "target": 0.5},
+    "cost_variance_abs_pct": {"floor": 6.0,  "target": 0.3},
+    "lead_time_cv":          {"floor": 0.18, "target": 0.04}
+  },
+
+  "risk_bands": {"low_min": 75.0, "medium_min": 60.0},
+
+  "confidence": {
+    "min_po_full_confidence": 5,
+    "min_po_for_lead_time_std": 3,
+    "shrinkage_k": 2,
+    "high_min": 0.80,
+    "medium_min": 0.55
+  },
+
+  "early_warning": {
+    "underperf_threshold": 60.0,
+    "static_watch_threshold": 70.0,
+    "warn_below_score": 80.0,
+    "drop_points": 6.0,
+    "slope_points_per_month": 2.0,
+    "sustained_months": 2,
+    "persistence_months": 1,
+    "horizon_months": 3,
+    "burn_in_months": 6
+  },
+
+  "alternates": {
+    "min_headroom_ratio": 0.3,
+    "min_months_data": 3,
+    "lookback_months": 3,
+    "weights": {"performance": 0.50, "cost": 0.20, "capacity": 0.20, "lead_time": 0.10}
+  },
+
+  "corrective_actions": {
+    "on_time_pct": "Agree a recovery plan on delivery dates; review production capacity and booking-in slots; consider air-freight or split shipments for critical lines.",
+    "fill_rate_pct": "Review order-quantity commitments and raw-material availability; set minimum fill-rate expectations in the next PO cycle.",
+    "defect_pct": "Trigger a quality review: root-cause analysis, increased inspection sampling and a corrective-action report (CAPA) from the vendor.",
+    "cost_variance_abs_pct": "Reconcile invoices to agreed PO prices; hold payment on disputed lines and confirm price-change approvals.",
+    "lead_time_cv": "Review planning assumptions and critical-path steps with the vendor; agree a more realistic and stable lead-time commitment."
+  }
+}

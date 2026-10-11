@@ -1,0 +1,117 @@
+vendor_id,category,capacity_units_month,planned_lead_time_days
+V001,Hosiery & Socks,116900,49
+V001,Menswear,47000,57
+V002,Hosiery & Socks,172200,53
+V002,Kidswear,168800,58
+V002,Beauty,100700,51
+V003,Beauty,120400,19
+V004,Lingerie & Sleepwear,74100,61
+V005,Lingerie & Sleepwear,177500,58
+V005,Accessories,279300,48
+V005,Kidswear,250600,51
+V005,Womenswear,370800,54
+V006,Hosiery & Socks,59200,24
+V007,Menswear,46600,54
+V007,Lingerie & Sleepwear,62000,58
+V008,Menswear,23300,40
+V009,Homeware,384600,70
+V009,Seasonal & Gifting,368000,61
+V009,Kidswear,158200,60
+V010,Menswear,160800,57
+V010,Womenswear,198600,57
+V011,Seasonal & Gifting,66600,60
+V011,Homeware,176700,69
+V012,Homeware,18100,68
+V012,Beauty,53900,51
+V013,Beauty,134200,23
+V013,Womenswear,15800,33
+V014,Footwear,19800,70
+V014,Menswear,86000,58
+V015,Hosiery & Socks,154200,48
+V015,Seasonal & Gifting,192900,54
+V015,Lingerie & Sleepwear,164400,60
+V016,Beauty,138600,31
+V016,Footwear,183300,53
+V016,Kidswear,121000,38
+V017,Footwear,144600,53
+V017,Menswear,135100,41
+V018,Lingerie & Sleepwear,221000,61
+V018,Accessories,213200,51
+V018,Womenswear,300700,57
+V018,Seasonal & Gifting,246400,55
+V019,Footwear,120900,70
+V019,Beauty,70900,48
+V020,Homeware,24500,67
+V020,Womenswear,56700,60
+V021,Beauty,86200,42
+V022,Footwear,103000,72
+V022,Beauty,126700,50
+V023,Kidswear,87000,54
+V023,Accessories,54100,51
+V024,Lingerie & Sleepwear,60700,56
+V024,Menswear,18000,52
+V025,Footwear,59000,73
+V026,Beauty,266100,47
+V026,Menswear,206500,57
+V026,Homeware,261900,64
+V026,Hosiery & Socks,312800,49
+V027,Lingerie & Sleepwear,121700,57
+V027,Accessories,121200,47
+V028,Kidswear,186100,56
+V028,Hosiery & Socks,207400,51
+V028,Menswear,118300,59
+V029,Hosiery & Socks,344000,31
+V029,Seasonal & Gifting,301600,37
+V029,Footwear,234600,51
+V029,Menswear,350300,39
+V030,Menswear,56300,37
+V031,Accessories,40700,56
+V032,Hosiery & Socks,119800,54
+V032,Lingerie & Sleepwear,113900,66
+V033,Seasonal & Gifting,121100,35
+V033,Beauty,143200,27
+V033,Hosiery & Socks,216000,29
+V034,Seasonal & Gifting,132500,61
+V034,Kidswear,158900,60
+V035,Kidswear,180700,57
+V035,Womenswear,159300,60
+V035,Lingerie & Sleepwear,153500,64
+V036,Menswear,183000,57
+V036,Hosiery & Socks,315700,49
+V036,Beauty,237200,47
+V036,Womenswear,377700,57
+V037,Hosiery & Socks,330000,49
+V037,Homeware,235500,64
+V037,Accessories,252900,51
+V037,Kidswear,306600,54
+V038,Hosiery & Socks,187800,50
+V038,Accessories,146600,52
+V038,Beauty,203100,48
+V039,Hosiery & Socks,138700,55
+V039,Footwear,205900,75
+V039,Seasonal & Gifting,240500,61
+V040,Kidswear,60100,32
+V040,Accessories,35200,29
+V041,Menswear,251900,59
+V041,Footwear,67400,71
+V042,Lingerie & Sleepwear,58100,60
+V043,Footwear,60600,72
+V043,Kidswear,60900,57
+V044,Kidswear,148700,51
+V044,Beauty,181600,44
+V044,Seasonal & Gifting,159300,52
+V045,Kidswear,40300,55
+V045,Footwear,57700,70
+V046,Homeware,22400,61
+V047,Homeware,200500,67
+V047,Seasonal & Gifting,69100,58
+V047,Footwear,207500,72
+V048,Menswear,142300,58
+V048,Homeware,201000,65
+V048,Accessories,190500,52
+V049,Homeware,63600,67
+V049,Accessories,30200,54
+V050,Beauty,413200,34
+V050,Footwear,291500,56
+V050,Hosiery & Socks,337000,36
+V050,Womenswear,373400,44

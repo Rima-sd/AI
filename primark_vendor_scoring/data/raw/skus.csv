@@ -1,0 +1,301 @@
+sku_id,category,base_cost_gbp
+WOM-0001,Womenswear,6.906
+WOM-0002,Womenswear,6.845
+WOM-0003,Womenswear,5.592
+WOM-0004,Womenswear,5.903
+WOM-0005,Womenswear,4.634
+WOM-0006,Womenswear,3.824
+WOM-0007,Womenswear,5.804
+WOM-0008,Womenswear,4.713
+WOM-0009,Womenswear,6.056
+WOM-0010,Womenswear,6.684
+WOM-0011,Womenswear,3.706
+WOM-0012,Womenswear,5.808
+WOM-0013,Womenswear,4.482
+WOM-0014,Womenswear,6.821
+WOM-0015,Womenswear,4.563
+WOM-0016,Womenswear,5.863
+WOM-0017,Womenswear,5.655
+WOM-0018,Womenswear,5.082
+WOM-0019,Womenswear,6.107
+WOM-0020,Womenswear,6.282
+WOM-0021,Womenswear,5.704
+WOM-0022,Womenswear,6.401
+WOM-0023,Womenswear,7.22
+WOM-0024,Womenswear,5.166
+WOM-0025,Womenswear,5.513
+WOM-0026,Womenswear,3.685
+WOM-0027,Womenswear,6.538
+WOM-0028,Womenswear,5.534
+WOM-0029,Womenswear,5.125
+WOM-0030,Womenswear,3.982
+MEN-0001,Menswear,7.672
+MEN-0002,Menswear,5.664
+MEN-0003,Menswear,6.831
+MEN-0004,Menswear,4.666
+MEN-0005,Menswear,7.964
+MEN-0006,Menswear,4.784
+MEN-0007,Menswear,4.87
+MEN-0008,Menswear,7.547
+MEN-0009,Menswear,7.765
+MEN-0010,Menswear,4.921
+MEN-0011,Menswear,5.967
+MEN-0012,Menswear,7.038
+MEN-0013,Menswear,7.626
+MEN-0014,Menswear,5.599
+MEN-0015,Menswear,6.159
+MEN-0016,Menswear,7.071
+MEN-0017,Menswear,7.028
+MEN-0018,Menswear,7.239
+MEN-0019,Menswear,6.374
+MEN-0020,Menswear,4.485
+MEN-0021,Menswear,7.73
+MEN-0022,Menswear,7.574
+MEN-0023,Menswear,7.3
+MEN-0024,Menswear,4.465
+MEN-0025,Menswear,4.89
+MEN-0026,Menswear,7.079
+MEN-0027,Menswear,4.154
+MEN-0028,Menswear,8.036
+MEN-0029,Menswear,5.591
+MEN-0030,Menswear,6.98
+KID-0001,Kidswear,4.757
+KID-0002,Kidswear,3.514
+KID-0003,Kidswear,3.324
+KID-0004,Kidswear,4.054
+KID-0005,Kidswear,3.984
+KID-0006,Kidswear,3.551
+KID-0007,Kidswear,4.036
+KID-0008,Kidswear,4.877
+KID-0009,Kidswear,3.698
+KID-0010,Kidswear,3.016
+KID-0011,Kidswear,3.471
+KID-0012,Kidswear,3.513
+KID-0013,Kidswear,2.85
+KID-0014,Kidswear,2.93
+KID-0015,Kidswear,4.245
+KID-0016,Kidswear,3.375
+KID-0017,Kidswear,4.926
+KID-0018,Kidswear,3.134
+KID-0019,Kidswear,2.769
+KID-0020,Kidswear,4.419
+KID-0021,Kidswear,4.74
+KID-0022,Kidswear,3.221
+KID-0023,Kidswear,3.029
+KID-0024,Kidswear,2.988
+KID-0025,Kidswear,3.835
+KID-0026,Kidswear,3.7
+KID-0027,Kidswear,3.174
+KID-0028,Kidswear,2.634
+KID-0029,Kidswear,3.733
+KID-0030,Kidswear,4.938
+LNG-0001,Lingerie & Sleepwear,3.355
+LNG-0002,Lingerie & Sleepwear,3.036
+LNG-0003,Lingerie & Sleepwear,2.255
+LNG-0004,Lingerie & Sleepwear,2.542
+LNG-0005,Lingerie & Sleepwear,2.628
+LNG-0006,Lingerie & Sleepwear,3.583
+LNG-0007,Lingerie & Sleepwear,3.81
+LNG-0008,Lingerie & Sleepwear,3.86
+LNG-0009,Lingerie & Sleepwear,4.029
+LNG-0010,Lingerie & Sleepwear,4.024
+LNG-0011,Lingerie & Sleepwear,3.965
+LNG-0012,Lingerie & Sleepwear,2.176
+LNG-0013,Lingerie & Sleepwear,2.31
+LNG-0014,Lingerie & Sleepwear,2.648
+LNG-0015,Lingerie & Sleepwear,3.152
+LNG-0016,Lingerie & Sleepwear,2.227
+LNG-0017,Lingerie & Sleepwear,3.747
+LNG-0018,Lingerie & Sleepwear,3.282
+LNG-0019,Lingerie & Sleepwear,3.131
+LNG-0020,Lingerie & Sleepwear,2.366
+LNG-0021,Lingerie & Sleepwear,2.544
+LNG-0022,Lingerie & Sleepwear,2.355
+LNG-0023,Lingerie & Sleepwear,3.759
+LNG-0024,Lingerie & Sleepwear,3.216
+LNG-0025,Lingerie & Sleepwear,3.522
+LNG-0026,Lingerie & Sleepwear,2.631
+LNG-0027,Lingerie & Sleepwear,2.784
+LNG-0028,Lingerie & Sleepwear,2.852
+LNG-0029,Lingerie & Sleepwear,3.573
+LNG-0030,Lingerie & Sleepwear,3.598
+FTW-0001,Footwear,6.336
+FTW-0002,Footwear,10.193
+FTW-0003,Footwear,5.883
+FTW-0004,Footwear,9.955
+FTW-0005,Footwear,5.777
+FTW-0006,Footwear,6.639
+FTW-0007,Footwear,9.694
+FTW-0008,Footwear,6.192
+FTW-0009,Footwear,7.421
+FTW-0010,Footwear,7.612
+FTW-0011,Footwear,6.538
+FTW-0012,Footwear,8.979
+FTW-0013,Footwear,9.72
+FTW-0014,Footwear,9.842
+FTW-0015,Footwear,7.031
+FTW-0016,Footwear,8.037
+FTW-0017,Footwear,6.554
+FTW-0018,Footwear,6.535
+FTW-0019,Footwear,6.097
+FTW-0020,Footwear,10.185
+FTW-0021,Footwear,9.912
+FTW-0022,Footwear,9.331
+FTW-0023,Footwear,7.968
+FTW-0024,Footwear,7.826
+FTW-0025,Footwear,8.031
+FTW-0026,Footwear,8.067
+FTW-0027,Footwear,7.531
+FTW-0028,Footwear,5.942
+FTW-0029,Footwear,5.91
+FTW-0030,Footwear,10.249
+ACC-0001,Accessories,1.867
+ACC-0002,Accessories,2.461
+ACC-0003,Accessories,1.466
+ACC-0004,Accessories,1.959
+ACC-0005,Accessories,1.522
+ACC-0006,Accessories,1.579
+ACC-0007,Accessories,1.298
+ACC-0008,Accessories,1.41
+ACC-0009,Accessories,2.415
+ACC-0010,Accessories,1.665
+ACC-0011,Accessories,2.026
+ACC-0012,Accessories,1.846
+ACC-0013,Accessories,1.765
+ACC-0014,Accessories,1.93
+ACC-0015,Accessories,1.496
+ACC-0016,Accessories,2.506
+ACC-0017,Accessories,2.291
+ACC-0018,Accessories,2.194
+ACC-0019,Accessories,1.851
+ACC-0020,Accessories,1.453
+ACC-0021,Accessories,2.42
+ACC-0022,Accessories,1.69
+ACC-0023,Accessories,1.323
+ACC-0024,Accessories,1.691
+ACC-0025,Accessories,2.261
+ACC-0026,Accessories,2.045
+ACC-0027,Accessories,2.206
+ACC-0028,Accessories,2.26
+ACC-0029,Accessories,1.527
+ACC-0030,Accessories,2.424
+HOM-0001,Homeware,4.127
+HOM-0002,Homeware,4.704
+HOM-0003,Homeware,2.877
+HOM-0004,Homeware,5.721
+HOM-0005,Homeware,3.676
+HOM-0006,Homeware,3.048
+HOM-0007,Homeware,4.185
+HOM-0008,Homeware,3.24
+HOM-0009,Homeware,3.307
+HOM-0010,Homeware,4.685
+HOM-0011,Homeware,3.998
+HOM-0012,Homeware,5.516
+HOM-0013,Homeware,3.786
+HOM-0014,Homeware,4.954
+HOM-0015,Homeware,4.193
+HOM-0016,Homeware,4.764
+HOM-0017,Homeware,4.591
+HOM-0018,Homeware,4.227
+HOM-0019,Homeware,5.597
+HOM-0020,Homeware,3.854
+HOM-0021,Homeware,3.379
+HOM-0022,Homeware,4.816
+HOM-0023,Homeware,5.298
+HOM-0024,Homeware,2.986
+HOM-0025,Homeware,4.16
+HOM-0026,Homeware,5.431
+HOM-0027,Homeware,5.021
+HOM-0028,Homeware,5.716
+HOM-0029,Homeware,4.395
+HOM-0030,Homeware,4.764
+BTY-0001,Beauty,1.094
+BTY-0002,Beauty,1.636
+BTY-0003,Beauty,1.148
+BTY-0004,Beauty,1.46
+BTY-0005,Beauty,1.179
+BTY-0006,Beauty,1.312
+BTY-0007,Beauty,1.445
+BTY-0008,Beauty,1.268
+BTY-0009,Beauty,1.602
+BTY-0010,Beauty,1.192
+BTY-0011,Beauty,1.384
+BTY-0012,Beauty,1.128
+BTY-0013,Beauty,1.183
+BTY-0014,Beauty,1.21
+BTY-0015,Beauty,0.946
+BTY-0016,Beauty,0.917
+BTY-0017,Beauty,1.401
+BTY-0018,Beauty,1.391
+BTY-0019,Beauty,1.397
+BTY-0020,Beauty,0.857
+BTY-0021,Beauty,1.114
+BTY-0022,Beauty,1.006
+BTY-0023,Beauty,1.494
+BTY-0024,Beauty,1.563
+BTY-0025,Beauty,1.047
+BTY-0026,Beauty,1.401
+BTY-0027,Beauty,0.949
+BTY-0028,Beauty,1.071
+BTY-0029,Beauty,0.956
+BTY-0030,Beauty,1.078
+HSY-0001,Hosiery & Socks,1.055
+HSY-0002,Hosiery & Socks,1.204
+HSY-0003,Hosiery & Socks,0.758
+HSY-0004,Hosiery & Socks,0.972
+HSY-0005,Hosiery & Socks,1.072
+HSY-0006,Hosiery & Socks,1.23
+HSY-0007,Hosiery & Socks,1.014
+HSY-0008,Hosiery & Socks,0.791
+HSY-0009,Hosiery & Socks,1.024
+HSY-0010,Hosiery & Socks,0.832
+HSY-0011,Hosiery & Socks,1.245
+HSY-0012,Hosiery & Socks,0.882
+HSY-0013,Hosiery & Socks,1.062
+HSY-0014,Hosiery & Socks,0.645
+HSY-0015,Hosiery & Socks,0.882
+HSY-0016,Hosiery & Socks,1.181
+HSY-0017,Hosiery & Socks,1.014
+HSY-0018,Hosiery & Socks,0.91
+HSY-0019,Hosiery & Socks,1.22
+HSY-0020,Hosiery & Socks,1.168
+HSY-0021,Hosiery & Socks,0.833
+HSY-0022,Hosiery & Socks,0.973
+HSY-0023,Hosiery & Socks,0.939
+HSY-0024,Hosiery & Socks,1.028
+HSY-0025,Hosiery & Socks,0.84
+HSY-0026,Hosiery & Socks,0.784
+HSY-0027,Hosiery & Socks,1.205
+HSY-0028,Hosiery & Socks,1.212
+HSY-0029,Hosiery & Socks,1.161
+HSY-0030,Hosiery & Socks,1.246
+SEA-0001,Seasonal & Gifting,3.664
+SEA-0002,Seasonal & Gifting,3.706
+SEA-0003,Seasonal & Gifting,3.701
+SEA-0004,Seasonal & Gifting,3.109
+SEA-0005,Seasonal & Gifting,3.059
+SEA-0006,Seasonal & Gifting,2.604
+SEA-0007,Seasonal & Gifting,3.454
+SEA-0008,Seasonal & Gifting,2.708
+SEA-0009,Seasonal & Gifting,2.641
+SEA-0010,Seasonal & Gifting,3.331
+SEA-0011,Seasonal & Gifting,2.961
+SEA-0012,Seasonal & Gifting,2.56
+SEA-0013,Seasonal & Gifting,3.814
+SEA-0014,Seasonal & Gifting,3.907
+SEA-0015,Seasonal & Gifting,2.452
+SEA-0016,Seasonal & Gifting,2.116
+SEA-0017,Seasonal & Gifting,2.806
+SEA-0018,Seasonal & Gifting,3.775
+SEA-0019,Seasonal & Gifting,3.862
+SEA-0020,Seasonal & Gifting,2.39
+SEA-0021,Seasonal & Gifting,3.726
+SEA-0022,Seasonal & Gifting,2.343
+SEA-0023,Seasonal & Gifting,2.919
+SEA-0024,Seasonal & Gifting,4.197
+SEA-0025,Seasonal & Gifting,2.504
+SEA-0026,Seasonal & Gifting,2.423
+SEA-0027,Seasonal & Gifting,2.988
+SEA-0028,Seasonal & Gifting,3.401
+SEA-0029,Seasonal & Gifting,4.059
+SEA-0030,Seasonal & Gifting,4.16

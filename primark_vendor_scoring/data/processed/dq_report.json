@@ -1,0 +1,19 @@
+{
+  "po_lines_raw": 21215,
+  "duplicate_po_lines_removed": 210,
+  "cancelled_po_lines": 477,
+  "active_po_lines": 20528,
+  "orphan_deliveries": 60,
+  "duplicate_deliveries_removed": 101,
+  "orphan_inspections": 0,
+  "orphan_invoices": 60,
+  "match_rate_delivery_pct": 98.8,
+  "match_rate_inspection_pct": 95.86,
+  "match_rate_invoice_pct": 96.28,
+  "fully_matched_pct": 92.92,
+  "quarantined_lines": 358,
+  "quarantine_breakdown": {
+    "no_delivery_record": 247,
+    "date_sequence_invalid": 111
+  }
+}
